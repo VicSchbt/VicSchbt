@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+I am Victoire, I am an apprentice in an engineering school in France. I'm doing my apprenticeship in web development and I work mostly with Vue.JS.
+
+* *Currently* : Software engineering studant at IMT Atlantique (France).
+* *Previously* : Student at IUT A Lille (France) in Computer Sciences (graduated in 2020).
+
+# 🔭 I’m currently working on ...
+
+* I am making my portfolio and my personal website.
+* I am also thinking about blogging about my computer sciences student journey 🤔
+
+# 🌱 I’m currently learning ...
+
+* I am improving my JS skills.
+* I am learning to use Figma too.
 
 <!--
 **Vic5995/Vic5995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
