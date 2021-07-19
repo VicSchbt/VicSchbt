@@ -2,7 +2,7 @@
 
 I am Victoire, I am an apprentice in an engineering school in France. I'm doing my apprenticeship in web development and I work mostly with Vue.JS.
 
-* *Currently* : Software engineering studant at IMT Atlantique (France).
+* *Currently* : Software engineering student at IMT Atlantique (France).
 * *Previously* : Student at IUT A Lille (France) in Computer Sciences (graduated in 2020).
 
 # 🔭 I’m currently working on ...
