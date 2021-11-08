@@ -13,8 +13,7 @@ The second year of my apprenticeship will focus on Data Sciences and Flutter.
 
 # 🌱 I’m currently learning ...
 
-* I am improving my JS skills and also my Vus.JS's ones.
-* I am working on unit testing (mostly at work).
+* I am learning Python in order to learn more about data analyses
 
 <!--
 **Vic5995/Vic5995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
