@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I am Victoire, I am an apprentice in an engineering school in France. I'm doing my apprenticeship, at DGFIP, in web development and I work mostly with Vue.JS.
-The second year of my apprenticeship will focus on Data Sciences and Flutter.
+I am Victoire, I am in an engineering school in France. I'm doing a study-work program, at DGFIP, in web development and I worked with Vue.JS on my first year.
+The second year of my study-work program is on Data Sciences and Flutter.
 
 * *Currently* : Software engineering student at IMT Atlantique (France).
 * *Previously* : Student at IUT A Lille (France) in Computer Sciences (graduated in 2020).
@@ -13,7 +13,7 @@ The second year of my apprenticeship will focus on Data Sciences and Flutter.
 
 # 🌱 I’m currently learning ...
 
-* I am learning Python in order to learn more about data analyses
+* I am learning Python in order to learn Data Science.
 
 <!--
 **Vic5995/Vic5995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
