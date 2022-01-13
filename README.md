@@ -15,6 +15,9 @@ The second year of my study-work program is on Data Sciences and Flutter.
 
 * I am learning Python in order to learn Data Science.
 
+# 📫 How to reach me ...
+
+* [LinkedIn](https://www.linkedin.com/in/victoire-lenglart/)
 <!--
 **Vic5995/Vic5995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
