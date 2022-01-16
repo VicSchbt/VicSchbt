@@ -8,6 +8,8 @@ The second year of my study-work program is on Data Sciences (Python) and Flutte
 
 🚨🚨 **I AM LOOKING FOR A 13 WEEK INTERNSHIP (STARTING FROM MID-MAY 2022) ABROAD (NOT IN FRANCE)** 📱📦🖥
 
+Do not hesitate to check my [Video CV](https://youtu.be/ukf_X-RtbdQ)
+
 # 🔭 I’m currently working on ...
 
 * I am expanding my portfolio.
