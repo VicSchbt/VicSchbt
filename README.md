@@ -6,10 +6,6 @@ The second year of my study-work program is on Data Sciences (Python) and Flutte
 * *Currently* : Software engineering student at IMT Atlantique (France).
 * *Previously* : Student at IUT A Lille (France) in Computer Sciences (graduated in 2020).
 
-🚨🚨 **I AM LOOKING FOR A 13 WEEK INTERNSHIP (STARTING FROM MID-MAY 2022) ABROAD (NOT IN FRANCE)** 📱📦🖥
-
-Do not hesitate to check my [Video CV](https://youtu.be/ukf_X-RtbdQ)
-
 # 🔭 I’m currently working on ...
 
 * I am expanding my portfolio.
