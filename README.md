@@ -9,8 +9,6 @@ The second year of my study-work program is on Data Sciences (Python) and Flutte
 # 🔭 I’m currently working on ...
 
 * I am expanding my portfolio.
-* I am also working on a TikTok account about my student journey (@vic5995).
-* I am on a 365 day challenge on [Leetcode](https://leetcode.com/Vic5995/)
 
 # 🌱 I’m currently learning ...
 
