@@ -1,12 +1,9 @@
-# 😄 Pronouns:
-She/Her
-
 # Hi there 👋
 
-I am Victoire, I am in an engineering school in France. I'm doing a study-work program, at DGFIP, in web development and I worked with Vue.JS on my first year.
-The second year of my study-work program is on Data Sciences (Python) and Flutter. The last is a bout creating a serious game with Unity.
+I am Victoire, I am in an software engineer working at Deacthlon Digital in France. 
 
-* *Currently* : Software engineering student at IMT Atlantique (France).
+* *Currently* : Software engineer at Decathlon Digital.
+* *Previously* :Software engineering student at IMT Atlantique (France, graduated in 2023).
 * *Previously* : Student at IUT A Lille (France) in Computer Sciences (graduated in 2020).
 
 # 🔭 I’m currently working on ...
