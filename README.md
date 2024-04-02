@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I am Victoire, I am in an software engineer working at Deacthlon Digital in France. 
-
-* *Currently* : Software engineer at Decathlon Digital.
-* *Previously* :Software engineering student at IMT Atlantique (France, graduated in 2023).
-* *Previously* : Student at IUT A Lille (France) in Computer Sciences (graduated in 2020).
+Junior Software Engineer at Decathlon, coding with a smile! 🌟 Passionate about web development and eager to expand my skills through exciting projects. Dreaming of seamlessly blending technology with creativity as a joyful 'creative coder'. Let's build beautiful and innovative experiences together! 🎨💻
 
 # 🔭 I’m currently working on ...
 
@@ -12,8 +8,12 @@ I am Victoire, I am in an software engineer working at Deacthlon Digital in Fran
 
 # 🌱 I’m currently learning ...
 
-* I am expanding my skills with React (Js and TS)
+* I am expanding my skills (some bacics like HTML, CSS and JS and some advanced like React, TS...)
 * I am looking about what is Creative Coding
+
+# ✨ Fun fact: ...
+
+* If nothing works out, it's always a good idea to open a book shop
 
 # 📫 How to reach me ...
 
